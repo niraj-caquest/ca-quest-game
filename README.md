@@ -1,27 +1,16 @@
-# CA Quest: The Ledger of Destiny 🎮
+# ca_quest_game
 
-A cinematic puzzle-story mobile game inspired by the journey of a Chartered Accountant (CA).  
-The game blends accounting concepts, logic-based puzzles, and storytelling to create an engaging experience for both CA students and the general public.
+A new Flutter project.
 
-## 🎯 Features
-- Puzzle-based gameplay inspired by accounting & logic
-- Story-driven progression (Foundation → Final)
-- Timer & score-based challenges
-- Designed for mobile users
-- Built using Dart & Flame
+## Getting Started
 
-## 🧠 Game Concept
-Players take the role of a CA aspirant navigating exams, challenges, and real-life scenarios.  
-Each level presents puzzles that test logic, accuracy, and decision-making under pressure.
+This project is a starting point for a Flutter application.
 
-## 🛠 Tech Stack
-- Dart
-- Flame Game Engine
-- Flutter (via cloud build)
+A few resources to get you started if this is your first Flutter project:
 
-## 🚧 Project Status
-Currently in active development.  
-Core game logic and puzzle systems are being implemented.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
----
-Built with ❤️ using mobile-only development.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
